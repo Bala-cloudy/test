@@ -1,0 +1,279 @@
+									
+												
+														
+																JAVA PROGRAMMING LANGUAGE
+																
+																
+																LANGUAGE - mode of communication  
+																
+																PROGRAMMING -  set of instructions  (Rules)
+																
+																JAVA  - just a name 
+																
+																
+																CORE JAVA 
+																
+																1. Syntax     							-     predefined structure 
+																
+																2. OOPS CONCEPT              -     Object Oriented Programming Language 
+																
+																3. API (Application Programming interface)
+																
+																
+																
+																1. Syntax : 
+																		
+																		a . Class syntax
+																		b.  Variable Syntax
+																		c .Method Syntax
+																		
+																		
+															
+															a. class syntax -  
+															
+															
+															access_specifier     class    class_name {
+															
+																	// variables 
+																	//  methods 
+															
+															}
+															
+															
+															access_specifier / access_modifier  -     public ,   private , protected , default   (Optional)  , restriction 
+															
+															class     -   keyword  (java understand words)   ,   Always starts with small letter . (Mandatory)
+															
+															class_name   -   userdefined name ,  Always starts with Capital letter (Optional)
+															
+															{               -       starting of your program   (Mandatory)
+															
+															
+															}              -      ending of your program  (Mandatory)
+																
+																
+															example : 
+															
+															public class Test {									protected class Apple {						class Java {
+															
+															
+															}																}															}
+															
+															
+															public -  all accessible 
+															
+																private  -  particular accessible
+																
+																	protected  - 
+																	
+																		default  - 
+																		
+																	
+														
+											b.  Variable Syntax 
+											
+													data 's   -  main 
+													
+												
+												access_specifier     static    datatype   variable_name ;
+												
+												
+												access_specifier  static  datatype variable_name  =  value ;
+												
+												=     -   assignment operator 
+												
+												value -  userdefined value
+												
+												
+											access_specifier   - public  , private , protected , default  (optional)
+											
+											static    -  keyword   (small letter)  (optional)
+											
+											datatype    -  type of data   (for memory allocation of your values)
+											
+											variable_name  -  userdefined name  (small letter)  (Optional)
+											
+											;          -     semicolon   (Mandatory)    -   end of statement / execution .
+											
+											
+											
+											
+											1, 123 ,  9955221177
+											
+											Datatypes  (Keywords )  , always small letter , 
+											
+											primitive types , primitive datatypes
+											
+											1 byte  -  8 bit 
+											
+											1 bit  - 1
+											
+											
+											Types :
+											
+											byte       -     8 bit   -      -128   to 127  												0
+											
+											short      -  2byte   - 16 bit   -        -32 , 768   to 32, 767 					0
+											
+											int       -  4 byte  - 32 bit  -       -2 ^ 31 to 2 ^ 30    							0
+											
+											long  - 8 byte  - 64 bit -  -2 ^ 63  to  2^ 62										0
+											
+											============================================================
+											
+											float    -  4 byte -  32 bit 																	0.0
+											
+											double -  8 byte - 64 bit   																	0.0
+											
+											==============================================================
+											
+											char  -    2  byte  - 16 bit                                                                    '\u0000'   or  0 or 'A'
+											
+											================================================================
+											
+											boolean   -  true or false    (1 bit)    -   0   or 1 									false
+											
+											========================================================================
+											
+											
+											Example :
+											
+											public  static  byte  age ; 
+											
+											
+											private static byte age = 60;
+											
+											
+											protected static int mark = 50;
+											
+											static char name = 'A'; 
+											
+											public static float frequency = 93.5f;
+											
+											
+											private static double freq  = 93.5;
+											
+											public static short numeric = 500;
+											
+											protected static boolean power = true;
+											
+											
+											c .Method Syntax
+
+											
+											access_specifier   static  return_type   method_name ( parameters ) {
+											
+													/// Business logics 
+											
+											
+												return  return_statement ; 	    -  optional 
+
+											}
+											
+											access_specifier - optional 
+											
+											static - optional
+											
+											return_type  - datatype
+											
+											method_name - userdefined name (starts small letter)
+											
+											(  - open round bracket
+											
+											parameters -  optional
+											
+											)  - close round bracket
+											
+											{  - start of method
+											
+											return - keyword / reserved words
+											
+											return_statement -  values
+											
+											;  - end of statement
+											
+											}  - end of method
+											
+											
+											Example : 
+											
+											public  static  short  race ( ) {	
+											
+												
+												return 10 ;
+											
+											}
+											
+											private  static long days ( int age ) {
+											
+											
+												return 10000;
+											}
+											
+											
+											boolean addedSugar () {
+											
+												return false;
+											}
+											
+											void  -  null
+											
+											protected static void bala ( boolean a  ) {
+											
+											
+												
+											}
+											
+											
+											public  void  test ( int a , float b , boolean c ) {
+											
+											
+											
+													
+											}
+												
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+										
+											
+											
+											
+											
+											
+										
+										
+											
+											
+											
+											
+
+																	
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+																		
+
+																
+																
+																
+																
+																
